@@ -2,5 +2,6 @@
 Open a new terminal and:
 ```bash
 git clone https://github.com/brianzhang-git/dotfiles.git
+rm README.md
 rm -rf .git
 ```
